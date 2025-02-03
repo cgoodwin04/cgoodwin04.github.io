@@ -1,0 +1,14 @@
+Editing: 
+	Edit html and css files using VSCode.
+	Make sure to save work locally on PC.
+	View saved progress in Chrome by opening the html doc. 
+
+Pushing (going online): 
+Open terminal/command prompt.
+	git init
+	git add . 
+	git commit -m 'Message' **Insert custom message for clarity**
+	git push orgin main
+
+Viewing Website on the web: 
+	https://cgoodwin04.github.io/index.html 
